@@ -8,7 +8,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Toast.makeText(this, "My first branch", Toast.LENGTH_SHORT).show()
-        Toast.makeText(this, "Another commit", Toast.LENGTH_SHORT).show()
+
     }
 }
