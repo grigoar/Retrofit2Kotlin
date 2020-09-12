@@ -9,7 +9,7 @@ class Post {
     @SerializedName("body")
     var text:String? = null
 
-    constructor(userID:Int, title:String,text:String){
+    constructor(userID:Int, title: String?, text:String){
         this.userId=userID
         this.title=title
         this.text=text
