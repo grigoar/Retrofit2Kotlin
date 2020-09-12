@@ -4,4 +4,5 @@
 
 Used methods overloading for different situations.
 The calls are made to the fake api https://jsonplaceholder.typicode.com/.
+
 Wrote in kotlin.
