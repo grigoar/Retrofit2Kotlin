@@ -4,7 +4,7 @@
 
 - **The calls are made through an interface that call the GET, POST, PUT, PATCH and DELETE methods and return an object Call<T>.**
 
-- Using overloading for the http methods to simulate different calls of the API available services
+- **Using overloading for the http methods to simulate different calls of the API available services**
 
 - It uses an object GSon converted in JSON for communicate with the server. 
 
