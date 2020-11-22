@@ -1,4 +1,4 @@
-# **Retrofit calls for GET, POST, PUT, PATCH and DELETE.**
+# **Customized retrofit calls for GET, POST, PUT, PATCH and DELETE.**
 
 - **Retrofit is a REST Client for Java and Android**.
 
