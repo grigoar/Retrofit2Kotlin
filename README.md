@@ -1,8 +1,15 @@
 # **Retrofit calls for GET, POST, PUT, PATCH and DELETE.**
 
-#### The calls are made through an interface that call the GET, POST, PUT, PATCH and DELETE methods and return an object Call<T>. There are two objects used for the calls, Post and Comment. 
+- **Retrofit is a REST Client for Java and Android**
 
-Used methods overloading for different situations.
-The calls are made to the fake api https://jsonplaceholder.typicode.com/.
+- **The calls are made through an interface that call the GET, POST, PUT, PATCH and DELETE methods and return an object Call<T>.**
 
-Wrote in kotlin.
+- Using overloading for the http methods to simulate different calls of the API available services
+
+- It uses an object GSon converted in JSON for communicate with the server. 
+
+- It also Using OkHttp library for HTTP requests.
+
+- The calls are made to the fake api https://jsonplaceholder.typicode.com/.
+
+- Wrote in kotlin.
